@@ -11,15 +11,15 @@ Projeto desenvolvido como parte do 1° ano no curso de Desenvolvimento de Sistem
 ## Descrição
 <p align=>Este projeto cria um programa com o uso do loop do-while que permite ao usuário realizar a pesquisa de informações sobre residências. O programa apresenta um menu de opções que incluem:
 
-• Cadastrar residência: O usuário deve informar a renda da residência, a quantidade de pessoas que residem na casa e se a casa é própria ou alugada. Ele pode continuar cadastrando várias residências;<p>
+• <b>Cadastrar residência:</b> O usuário deve informar a renda da residência, a quantidade de pessoas que residem na casa e se a casa é própria ou alugada. Ele pode continuar cadastrando várias residências;<p>
 
-• Exibir renda média residencial: Mostra a renda média de todas as residências cadastradas;<p>
+• <b>Exibir renda média residencial:</b> Mostra a renda média de todas as residências cadastradas;<p>
 
-• Quantidade de habitantes: Exibe o número total de habitantes nas residências cadastradas;<p>
+• <b>Quantidade de habitantes:</b> Exibe o número total de habitantes nas residências cadastradas;<p>
 
-• Números de casas próprias e alugadas: Apresenta o número de casas próprias e alugadas nas residências cadastradas;<p>
+• <b>Números de casas próprias e alugadas:</b> Apresenta o número de casas próprias e alugadas nas residências cadastradas;<p>
 
-• Sair: Encerra o programa.</p>
+• <b>Sair:</b> Encerra o programa.</p>
 
 
 ## Projeto
